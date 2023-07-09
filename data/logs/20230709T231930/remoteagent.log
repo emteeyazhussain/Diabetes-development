@@ -1,0 +1,95 @@
+[2023-07-09 23:19:30.282] [remoteagent] [info] 
+
+
+
+
+[2023-07-09 23:19:30.282] [remoteagent] [info] Extension host agent started.
+[2023-07-09 23:19:35.738] [remoteagent] [info] [172.18.0.2][6ba29970][ManagementConnection] New connection established.
+[2023-07-09 23:19:36.652] [remoteagent] [warning] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: Cannot find module '../build/Release/keytar.node'
+Require stack:
+- /app/code-server/lib/vscode/node_modules/keytar/lib/keytar.js
+- /app/code-server/lib/vscode/out/bootstrap-amd.js
+- /app/code-server/out/node/util.js
+- /app/code-server/out/node/cli.js
+- /app/code-server/out/node/entry.js
+[2023-07-09 23:19:40.515] [remoteagent] [info] [172.18.0.2][a39f94fa][ExtensionHostConnection] New connection established.
+[2023-07-09 23:19:40.548] [remoteagent] [info] [172.18.0.2][a39f94fa][ExtensionHostConnection] <229> Launched Extension Host Process.
+[2023-07-09 23:19:53.786] [remoteagent] [info] Getting Manifest... formulahendry.code-runner
+[2023-07-09 23:19:55.279] [remoteagent] [info] Installing extension: formulahendry.code-runner
+[2023-07-09 23:19:57.249] [remoteagent] [info] Getting Manifest... ms-python.python
+[2023-07-09 23:19:57.997] [remoteagent] [info] Downloaded extension: formulahendry.code-runner /config/data/CachedExtensionVSIXs/formulahendry.code-runner-0.12.0-universal
+[2023-07-09 23:19:58.224] [remoteagent] [info] Extracted extension to /config/extensions/.a1dc31ea-2d2c-449d-a257-eee7f366de6b: formulahendry.code-runner
+[2023-07-09 23:19:58.230] [remoteagent] [info] Renamed to /config/extensions/formulahendry.code-runner-0.12.0-universal
+[2023-07-09 23:19:58.234] [remoteagent] [info] Extracting completed. formulahendry.code-runner
+[2023-07-09 23:19:58.235] [remoteagent] [info] Extension installed successfully: formulahendry.code-runner
+[2023-07-09 23:19:58.793] [remoteagent] [info] Installing extension: ms-python.python
+[2023-07-09 23:20:03.033] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2023-07-09 23:20:06.212] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2023-07-09 23:20:08.327] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2023-07-09 23:20:08.458] [remoteagent] [info] Getting Manifest... formulahendry.code-runner
+[2023-07-09 23:20:09.697] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2023-07-09 23:20:09.697] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2023-07-09 23:20:09.698] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2023-07-09 23:20:09.768] [remoteagent] [info] Installing extension: formulahendry.code-runner
+[2023-07-09 23:20:10.080] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2023-07-09 23:20:10.110] [remoteagent] [info] Getting Manifest... ms-python.python
+[2023-07-09 23:20:10.181] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2023-07-09 23:20:10.286] [remoteagent] [info] Extension installed successfully: formulahendry.code-runner
+[2023-07-09 23:20:10.494] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2023-07-09 23:20:11.447] [remoteagent] [info] Extensions is already requested to install ms-toolsai.jupyter-renderers
+[2023-07-09 23:20:11.648] [remoteagent] [info] Extensions is already requested to install ms-python.python
+[2023-07-09 23:20:11.649] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-keymap /config/data/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.1.0-universal
+[2023-07-09 23:20:11.666] [remoteagent] [info] Extracted extension to /config/extensions/.0607e90e-707a-4d5f-9f4f-1006de47b4d4: ms-toolsai.jupyter-keymap
+[2023-07-09 23:20:11.670] [remoteagent] [info] Renamed to /config/extensions/ms-toolsai.jupyter-keymap-1.1.0-universal
+[2023-07-09 23:20:11.671] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2023-07-09 23:20:11.737] [remoteagent] [info] Extensions is already requested to install ms-toolsai.jupyter-keymap
+[2023-07-09 23:20:11.752] [remoteagent] [info] Extensions is already requested to install ms-toolsai.jupyter
+[2023-07-09 23:20:13.410] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /config/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.9-universal
+[2023-07-09 23:20:13.690] [remoteagent] [info] Extracted extension to /config/extensions/.53cf0197-ddde-41b8-bd76-06f415be932c: ms-toolsai.jupyter-renderers
+[2023-07-09 23:20:13.694] [remoteagent] [info] Renamed to /config/extensions/ms-toolsai.jupyter-renderers-1.0.9-universal
+[2023-07-09 23:20:13.696] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2023-07-09 23:20:14.957] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /config/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.8.1002460559-universal
+[2023-07-09 23:20:15.826] [remoteagent] [info] Extracted extension to /config/extensions/.a10b8bf3-0d46-439f-939b-ffc525b0ec29: ms-toolsai.jupyter
+[2023-07-09 23:20:15.833] [remoteagent] [info] Renamed to /config/extensions/ms-toolsai.jupyter-2022.8.1002460559-universal
+[2023-07-09 23:20:15.845] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2023-07-09 23:20:20.160] [remoteagent] [info] Downloaded extension: ms-python.python /config/data/CachedExtensionVSIXs/ms-python.python-2022.16.1-universal
+[2023-07-09 23:20:22.771] [remoteagent] [info] Extracted extension to /config/extensions/.985420f3-cffd-48b4-871f-1355df3d909f: ms-python.python
+[2023-07-09 23:20:22.778] [remoteagent] [info] Renamed to /config/extensions/ms-python.python-2022.16.1-universal
+[2023-07-09 23:20:22.782] [remoteagent] [info] Extracting completed. ms-python.python
+[2023-07-09 23:20:22.783] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2023-07-09 23:20:22.783] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2023-07-09 23:20:22.783] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2023-07-09 23:20:22.783] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2023-07-09 23:21:25.494] [remoteagent] [info] [172.18.0.2][6ba29970][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-07-09 23:21:25.497] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/app/code-server/lib/vscode/out/vs/server/node/server.main.js:148:7922)
+    at process.emit (node:events:525:35)
+[2023-07-09 23:21:35.191] [remoteagent] [info] [172.18.0.2][6ba29970][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2023-07-09 23:21:35.191] [remoteagent] [info] [172.18.0.2][a39f94fa][ExtensionHostConnection] The client has reconnected.
+[2023-07-09 23:21:35.543] [remoteagent] [info] [172.18.0.2][6ba29970][ManagementConnection] The client has reconnected.
+[2023-07-09 23:26:10.519] [remoteagent] [info] [172.18.0.2][6ba29970][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-07-09 23:26:10.519] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/app/code-server/lib/vscode/out/vs/server/node/server.main.js:148:7922)
+    at process.emit (node:events:525:35)
+[2023-07-09 23:27:10.583] [remoteagent] [info] [172.18.0.2][6ba29970][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2023-07-09 23:27:10.583] [remoteagent] [info] [172.18.0.2][6ba29970][ManagementConnection] The client has reconnected.
+[2023-07-09 23:27:11.094] [remoteagent] [info] [172.18.0.2][a39f94fa][ExtensionHostConnection] The client has reconnected.
+[2023-07-09 23:32:03.749] [remoteagent] [info] [172.18.0.2][6ba29970][ManagementConnection] The client has reconnected.
+[2023-07-09 23:32:08.273] [remoteagent] [info] [172.18.0.2][a39f94fa][ExtensionHostConnection] The client has reconnected.
+[2023-07-09 23:36:51.888] [remoteagent] [info] [172.18.0.2][fb4b720f][ManagementConnection] New connection established.
+[2023-07-09 23:36:54.729] [remoteagent] [info] [172.18.0.2][6f527018][ExtensionHostConnection] New connection established.
+[2023-07-09 23:36:54.741] [remoteagent] [info] [172.18.0.2][6f527018][ExtensionHostConnection] <341> Launched Extension Host Process.
+[2023-07-09 23:36:57.953] [remoteagent] [info] [172.18.0.2][6ba29970][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-07-09 23:36:57.955] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/app/code-server/lib/vscode/out/vs/server/node/server.main.js:148:7922)
+    at process.emit (node:events:525:35)
+[2023-07-09 23:42:28.835] [remoteagent] [info] [172.18.0.2][fb4b720f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-07-09 23:42:28.854] [remoteagent] [info] [172.18.0.2][6f527018][ExtensionHostConnection] <341> Extension Host Process exited with code: 0, signal: null.
+[2023-07-09 23:42:31.252] [remoteagent] [info] [172.18.0.2][6ba29970][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2023-07-09 23:42:31.253] [remoteagent] [info] [172.18.0.2][db64d4c2][ManagementConnection] New connection established.
+[2023-07-09 23:42:33.213] [remoteagent] [info] [172.18.0.2][fe159a20][ExtensionHostConnection] New connection established.
+[2023-07-09 23:42:33.224] [remoteagent] [info] [172.18.0.2][fe159a20][ExtensionHostConnection] <410> Launched Extension Host Process.
+[2023-07-09 23:47:31.285] [remoteagent] [info] [172.18.0.2][6ba29970][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2023-07-09 23:47:31.436] [remoteagent] [info] [172.18.0.2][a39f94fa][ExtensionHostConnection] <229> Extension Host Process exited with code: 0, signal: null.
+[2023-07-09 23:55:36.893] [remoteagent] [info] [172.18.0.2][fe159a20][ExtensionHostConnection] The client has reconnected.
+[2023-07-09 23:55:37.328] [remoteagent] [info] [172.18.0.2][db64d4c2][ManagementConnection] The client has reconnected.

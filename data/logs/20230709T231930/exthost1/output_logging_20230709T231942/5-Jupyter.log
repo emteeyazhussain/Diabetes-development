@@ -1,0 +1,20 @@
+code-server (1.71.0, purple-optician-idlvt.pwskills.app, server-distro)
+Jupyter Extension Version: 2022.8.1002460559.
+Python Extension Version: 2022.16.1.
+Workspace folder /config/workspace
+info 23:20:37.251: ZMQ install verified.
+info 23:20:37.850: LSP Notebooks experiment is disabled -- Pylance disabled or not installed
+info 23:20:37.898: Process Execution: > jupyter notebook --version
+> jupyter notebook --version
+info 23:20:37.935: Process Execution: > jupyter lab --version
+> jupyter lab --version
+info 23:20:38.502: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 23:20:39.871: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+info 23:47:31.401: Shutting down notebooks for 9f049b3d-04ff-4e60-be74-483cd3905523
+info 23:47:31.401: Disposing HostJupyterExecution fc21a1f2-d70b-4e56-9bbb-43d8d6fcca2e
+info 23:47:31.401: Disposing super HostJupyterExecution fc21a1f2-d70b-4e56-9bbb-43d8d6fcca2e
+info 23:47:31.402: Disposing HostJupyterExecution fc21a1f2-d70b-4e56-9bbb-43d8d6fcca2e
+info 23:47:31.402: Finished disposing HostJupyterExecution  fc21a1f2-d70b-4e56-9bbb-43d8d6fcca2e
+info 23:47:31.409: Cleaning up server cache fc21a1f2-d70b-4e56-9bbb-43d8d6fcca2e
+info 23:47:31.410: Finished disposing HostJupyterExecution  fc21a1f2-d70b-4e56-9bbb-43d8d6fcca2e

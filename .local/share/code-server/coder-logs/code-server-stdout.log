@@ -1,0 +1,81 @@
+[2023-07-09T17:49:24.197Z] info  code-server 4.7.0 7f108c61ab670ccaae4cfde5de2909c003db1ce8
+[2023-07-09T17:49:24.199Z] info  Using user-data-dir ~/data
+[2023-07-09T17:49:24.216Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-07-09T17:49:24.216Z] info  HTTP server listening on http://0.0.0.0/ 
+[2023-07-09T17:49:24.216Z] info    - Authentication is enabled
+[2023-07-09T17:49:24.216Z] info      - Using password from $PASSWORD
+[2023-07-09T17:49:24.216Z] info    - Not serving HTTPS 
+[23:19:30] Extension host agent started.
+[23:19:35] [172.18.0.2][6ba29970][ManagementConnection] New connection established.
+[23:19:40] [172.18.0.2][a39f94fa][ExtensionHostConnection] New connection established.
+[23:19:40] [172.18.0.2][a39f94fa][ExtensionHostConnection] <229> Launched Extension Host Process.
+[23:19:53] Getting Manifest... formulahendry.code-runner
+[23:19:55] Installing extension: formulahendry.code-runner
+[23:19:57] Getting Manifest... ms-python.python
+[23:19:57] Downloaded extension: formulahendry.code-runner /config/data/CachedExtensionVSIXs/formulahendry.code-runner-0.12.0-universal
+[23:19:58] Extracted extension to /config/extensions/.a1dc31ea-2d2c-449d-a257-eee7f366de6b: formulahendry.code-runner
+[23:19:58] Renamed to /config/extensions/formulahendry.code-runner-0.12.0-universal
+[23:19:58] Extracting completed. formulahendry.code-runner
+[23:19:58] Extension installed successfully: formulahendry.code-runner
+[23:19:58] Installing extension: ms-python.python
+[23:20:03] Getting Manifest... ms-toolsai.jupyter
+[23:20:06] Getting Manifest... ms-toolsai.jupyter-renderers
+[23:20:08] Getting Manifest... ms-toolsai.jupyter-keymap
+[23:20:08] Getting Manifest... formulahendry.code-runner
+[23:20:09] Installing extension: ms-toolsai.jupyter
+[23:20:09] Installing extension: ms-toolsai.jupyter-renderers
+[23:20:09] Installing extension: ms-toolsai.jupyter-keymap
+[23:20:09] Installing extension: formulahendry.code-runner
+[23:20:10] Getting Manifest... ms-toolsai.jupyter
+[23:20:10] Getting Manifest... ms-python.python
+[23:20:10] Getting Manifest... ms-toolsai.jupyter-renderers
+[23:20:10] Extension installed successfully: formulahendry.code-runner
+[23:20:10] Getting Manifest... ms-toolsai.jupyter-keymap
+[23:20:11] Extensions is already requested to install ms-toolsai.jupyter-renderers
+[23:20:11] Extensions is already requested to install ms-python.python
+[23:20:11] Downloaded extension: ms-toolsai.jupyter-keymap /config/data/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.1.0-universal
+[23:20:11] Extracted extension to /config/extensions/.0607e90e-707a-4d5f-9f4f-1006de47b4d4: ms-toolsai.jupyter-keymap
+[23:20:11] Renamed to /config/extensions/ms-toolsai.jupyter-keymap-1.1.0-universal
+[23:20:11] Extracting completed. ms-toolsai.jupyter-keymap
+[23:20:11] Extensions is already requested to install ms-toolsai.jupyter-keymap
+[23:20:11] Extensions is already requested to install ms-toolsai.jupyter
+[23:20:13] Downloaded extension: ms-toolsai.jupyter-renderers /config/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.9-universal
+[23:20:13] Extracted extension to /config/extensions/.53cf0197-ddde-41b8-bd76-06f415be932c: ms-toolsai.jupyter-renderers
+[23:20:13] Renamed to /config/extensions/ms-toolsai.jupyter-renderers-1.0.9-universal
+[23:20:13] Extracting completed. ms-toolsai.jupyter-renderers
+[23:20:14] Downloaded extension: ms-toolsai.jupyter /config/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.8.1002460559-universal
+[23:20:15] Extracted extension to /config/extensions/.a10b8bf3-0d46-439f-939b-ffc525b0ec29: ms-toolsai.jupyter
+[23:20:15] Renamed to /config/extensions/ms-toolsai.jupyter-2022.8.1002460559-universal
+[23:20:15] Extracting completed. ms-toolsai.jupyter
+[23:20:20] Downloaded extension: ms-python.python /config/data/CachedExtensionVSIXs/ms-python.python-2022.16.1-universal
+[23:20:22] Extracted extension to /config/extensions/.985420f3-cffd-48b4-871f-1355df3d909f: ms-python.python
+[23:20:22] Renamed to /config/extensions/ms-python.python-2022.16.1-universal
+[23:20:22] Extracting completed. ms-python.python
+[23:20:22] Extension installed successfully: ms-toolsai.jupyter-keymap
+[23:20:22] Extension installed successfully: ms-toolsai.jupyter-renderers
+[23:20:22] Extension installed successfully: ms-toolsai.jupyter
+[23:20:22] Extension installed successfully: ms-python.python
+[23:21:25] [172.18.0.2][6ba29970][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[23:21:35] [172.18.0.2][6ba29970][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[23:21:35] [172.18.0.2][a39f94fa][ExtensionHostConnection] The client has reconnected.
+[23:21:35] [172.18.0.2][6ba29970][ManagementConnection] The client has reconnected.
+[23:26:10] [172.18.0.2][6ba29970][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[23:27:10] [172.18.0.2][6ba29970][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[23:27:10] [172.18.0.2][6ba29970][ManagementConnection] The client has reconnected.
+[23:27:11] [172.18.0.2][a39f94fa][ExtensionHostConnection] The client has reconnected.
+[23:32:03] [172.18.0.2][6ba29970][ManagementConnection] The client has reconnected.
+[23:32:08] [172.18.0.2][a39f94fa][ExtensionHostConnection] The client has reconnected.
+[23:36:51] [172.18.0.2][fb4b720f][ManagementConnection] New connection established.
+[23:36:54] [172.18.0.2][6f527018][ExtensionHostConnection] New connection established.
+[23:36:54] [172.18.0.2][6f527018][ExtensionHostConnection] <341> Launched Extension Host Process.
+[23:36:57] [172.18.0.2][6ba29970][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[23:42:28] [172.18.0.2][fb4b720f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[23:42:28] [172.18.0.2][6f527018][ExtensionHostConnection] <341> Extension Host Process exited with code: 0, signal: null.
+[23:42:31] [172.18.0.2][6ba29970][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[23:42:31] [172.18.0.2][db64d4c2][ManagementConnection] New connection established.
+[23:42:33] [172.18.0.2][fe159a20][ExtensionHostConnection] New connection established.
+[23:42:33] [172.18.0.2][fe159a20][ExtensionHostConnection] <410> Launched Extension Host Process.
+[23:47:31] [172.18.0.2][6ba29970][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[23:47:31] [172.18.0.2][a39f94fa][ExtensionHostConnection] <229> Extension Host Process exited with code: 0, signal: null.
+[23:55:36] [172.18.0.2][fe159a20][ExtensionHostConnection] The client has reconnected.
+[23:55:37] [172.18.0.2][db64d4c2][ManagementConnection] The client has reconnected.
